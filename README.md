@@ -1,4 +1,5 @@
 ## Hi there 👋
+![logo](https://github.com/CHANCHALAGGARWAL/CHANCHALAGGARWAL/blob/main/CHANCHAL%20AGGARWAL.png)
 <h1 align="center">Hi 👋, I'm CHANCHAL AGGARWAL</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchalaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="chanchalaggarwal" /> </p>
