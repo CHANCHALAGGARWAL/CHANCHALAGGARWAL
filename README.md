@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=CHANCHALAGGARWAL&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
-<img align="right" alt="coding" width="35%" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
-
 ---
 
 ## 👨‍💻 About Me
@@ -39,10 +36,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANCHALAGGARWAL&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANCHALAGGARWAL&layout=compact&theme=tokyonight" height="160" />
-</p>
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHANCHALAGGARWAL&show_icons=true&theme=tokyonight" height="160"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANCHALAGGARWAL&layout=compact&theme=tokyonight" height="160"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,4 +59,4 @@
 
 <p align="center"><i>"Code. Practice. Improve. Repeat."</i></p>
 <p align="center">⭐ Star the repositories you like!</p>
-<p align="center"> Made with ❤️ Chanchal Aggarwal </p>
+<p align="center">Made with ❤️ Chanchal Aggarwal</p>
