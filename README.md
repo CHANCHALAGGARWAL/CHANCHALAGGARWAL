@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=CHANCHALAGGARWAL&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
+
+<img align="right" alt="coding" width="35%" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
 
 ---
 
