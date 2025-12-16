@@ -43,10 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANCHALAGGARWAL&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANCHALAGGARWAL&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📌 Projects
@@ -56,6 +52,7 @@
 * 🔹 **Basic Web Projects** – HTML, CSS, JavaScript
 
 ---
+
 <p align="center"><i>"Code. Practice. Improve. Repeat."</i></p>
 <p align="center">⭐ Star the repositories you like!</p>
 <p align="center"> Made with ❤️ Chanchal Aggarwal </p>
