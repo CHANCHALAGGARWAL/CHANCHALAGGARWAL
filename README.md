@@ -9,11 +9,13 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Java, Python, HTML, C**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 💻 Interested in **Backend Development**
-* 🎯 Goal: Crack placements & build real-world projects
-* 📫 Email: **[aggarwalc493@gmail.com](mailto:aggarwalc493@gmail.com)**
+* 🌱 Currently learning Java and actively solving Data Structures & Algorithms problems
+* 🧠 Practicing problem-solving regularly to strengthen logic and coding skills
+* 💻 Skilled in Backend Development using Node.js, Express.js, and MongoDB
+* 🎨 Familiar with Frontend technologies including HTML, CSS, and JavaScript
+* 🚀 Interested in building scalable applications and growing as a Backend Developer
+* 🤖 Passionate about becoming an AI/ML Engineer and exploring real-world intelligent systems
+* 📫 Email: **[chanchalaggarwal2707@gmail.com](mailto:chanchalaggarwal2707@gmail.com)**
 
 ---
 
@@ -54,6 +56,7 @@
 * 🔹 **College Complaint Management System** – Java + MySQL
 * 🔹 **Java DSA Practice** – Data Structures & Algorithms
 * 🔹 **Basic Web Projects** – HTML, CSS, JavaScript
+* 🔹 **Studychatbot** – Python, FastAPI, MongoDB Atlas, LangChain, Groq API, OpenAI GPT, Uvicorn, Render.
 
 ---
 
