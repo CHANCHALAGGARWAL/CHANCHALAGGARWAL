@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanchal Aggarwal</h1>
-<h3 align="center">Aspiring Software Developer | Java | Python | DSA</h3>
+<h3 align="center"> Aspiring Backend Developer | Java | DSA | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CHANCHALAGGARWAL&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -22,7 +22,17 @@
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,nodejs,express,mongodb,mysql,fastapi,git,github" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHANCHALAGGARWAL&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=CHANCHALAGGARWAL&theme=tokyonight" />
 </p>
 
 ---
@@ -36,27 +46,42 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projects  
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANCHALAGGARWAL&show_icons=true&theme=tokyonight" height="160"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANCHALAGGARWAL&layout=compact&theme=tokyonight" height="160"/>
-</td>
-</tr>
-</table>
+### 🔹 College Complaint Management System  
+- Developed using **Java and MySQL**  
+- Built a platform for students to register and track complaints  
+- Implemented admin panel for resolving and managing issues  
+- Focused on backend logic, database design, and system workflow  
 
 ---
 
-## 📌 Projects
+### 🔹 FraudShield (AI-Based Fraud Detection System)  
+- Designed an intelligent system to detect suspicious and fraudulent activities  
+- Used **Machine Learning and backend technologies** for real-time monitoring  
+- Worked on data preprocessing, feature engineering, and anomaly detection  
+- Focused on improving system security and fraud prevention  
 
-* 🔹 **College Complaint Management System** – Java + MySQL
-* 🔹 **Java DSA Practice** – Data Structures & Algorithms
-* 🔹 **Basic Web Projects** – HTML, CSS, JavaScript
-* 🔹 **Studychatbot** – Python, FastAPI, MongoDB Atlas, LangChain, Groq API, OpenAI GPT, Uvicorn, Render.
+---
+
+### 🔹 Study Chatbot (AI-Powered Study Assistant)  
+- Built using **Python, FastAPI, MongoDB Atlas, LangChain, Groq API, OpenAI GPT, and Uvicorn**  
+- Deployed on **Render** for live usage  
+- Provides real-time academic support and intelligent responses  
+- Integrated LLM APIs and designed scalable backend architecture  
+
+---
+
+### 🔹 Java DSA Practice  
+- Regularly solving **Data Structures & Algorithms** problems using Java  
+- Covers arrays, strings, recursion, bit manipulation, and optimization  
+- Strengthening problem-solving, coding, and analytical skills  
+
+---
+
+### 🔹 Basic Web Projects  
+- Developed responsive web interfaces using **HTML, CSS, and JavaScript**  
+- Focused on UI design, layout, and frontend fundamentals  
 
 ---
 
